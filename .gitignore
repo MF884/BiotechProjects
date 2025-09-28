@@ -1,0 +1,13 @@
+# Ignore virtual environments
+*/myvenv/
+*/protvenv/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# IDE files
+.vscode/
+.idea/
+
+.DS_Store
